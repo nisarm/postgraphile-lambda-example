@@ -101,6 +101,7 @@ This repository runs bash scripts during deployment written on Mac which you can
 
 Now you can deploy to AWS using serverless.js by running:
 
+**Update environment variable value [AWS_SERVICE_NAME="my-postgraphile-lambda-mmddyyyy"]**
 ```
 yarn deploy
 ```
